@@ -116,4 +116,4 @@ Day00
 1. .NETフレームワーク
 1. データベースサーバ
 
-[TOPへ](.index.md)  
+[TOPへ](./index.md)  
