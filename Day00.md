@@ -19,18 +19,18 @@ Day00
 
 - plantUMLで図を生成
 
-	@startuml
-	' 手書き風
-	skinparam handwritten true
-	
-	' 役者
-	actor client
-	node Server
-	
-	' 関係
-	client -right-> Server: Request
-	Server -left-> client: Response
-	@enduml
+		@startuml
+		' 手書き風
+		skinparam handwritten true
+		
+		' 役者
+		actor client
+		node Server
+		
+		' 関係
+		client -right-> Server: Request
+		Server -left-> client: Response
+		@enduml
 
 ![リクエストとレスポンスのイメージ図](./img/Day00/001.png)
 
