@@ -31,4 +31,6 @@ Day00
 	Server -left-> client: Response
 	@enduml
 
-[リクエストとレスポンスのイメージ図](./img/Day00/001.png)
+![リクエストとレスポンスのイメージ図](./img/Day00/001.png)
+
+
