@@ -18,6 +18,7 @@ Day00
 
 - plantUMLで図を生成
 
+'''
 	@startuml
 	' 手書き風
 	skinparam handwritten true
@@ -30,6 +31,7 @@ Day00
 	client -right-> Server: Request
 	Server -left-> client: Response
 	@enduml
+'''
 
 ![リクエストとレスポンスのイメージ図](./img/Day00/001.png)
 
