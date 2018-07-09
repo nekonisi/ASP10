@@ -65,11 +65,10 @@
 
 - [Day08-1](./Day08-1.md)
 - [Day08-2](./Day08-2.md)
-- [Day08-3](./Day08-3.md)
 
 ## Day09
 
-### 未実装
+### ASP.NET AJAXで高度なUIを構築しよう!
 
 - [Day09-1](./Day09-1.md)
 - [Day09-2](./Day09-2.md)
