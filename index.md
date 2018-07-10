@@ -81,3 +81,8 @@
 - [Day010-2](./Day10-2.md)
 - [Day010-3](./Day10-3.md)
 
+## Other
+
+### その他のまとめたやつ
+
+- [イベントドリブンモデル](./EventDrivenModel.md)
